@@ -32,3 +32,22 @@ jobs:
 
       - name: Run Python script
         run: python your_script.py # Replace 'your_script.py' with your script's name
+
+from PIL import Image, ImageDraw
+
+def create_crosshair_image(size=500, line_width=5, color="red"):
+    """Creates a simple image with a crosshair."""
+    img = Image.new('RGB', (size, size), color='black')
+    draw = ImageDraw.Draw(img)
+    center = size // 2
+
+    # Draw horizontal line
+    draw.line((0, center, size, center), fill=color, width=line_width)
+    # Draw vertical line
+    draw.line((center, 0, center, size), fill=color, width=line_width)
+
+    img.save('crosshair.png')
+    print("Crosshair image 'crosshair.png' created successfully.")
+
+if __name__ == "__main__":
+    create_crosshair_image()
