@@ -7,7 +7,7 @@ This is my systematic experience.
 ### Space Game
 Attack defenses
 
-name: Run Python Script
+# Run Python Script
 
 on:
   push:
