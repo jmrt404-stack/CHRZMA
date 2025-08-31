@@ -16,7 +16,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: pythons-latest
 
     steps:
       - name: Checkout repository
