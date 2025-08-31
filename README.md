@@ -16,7 +16,7 @@ on:
 
 jobs:
   build:
-    runs-on: pythons-latest
+    runs-on: windows-latest
 
     steps:
       - name: Checkout repository
