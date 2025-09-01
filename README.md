@@ -5,5 +5,7 @@ Just to further advance.
 This is my systematic experience.
 
 ### Space Game
-Attack defenses
-
+Attack State
+  - Each State has Player-access
+  - Access will be triggered randomly
+  - Player will defend with satellite
