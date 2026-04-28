@@ -1,5 +1,5 @@
 # CHRZMA
-Just to further advance.
+Seeking a skilfull languagefor my own data statistical direction.
 
 ## Furthermore
 This is my systematic experience.
