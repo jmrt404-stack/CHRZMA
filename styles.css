@@ -1,0 +1,46 @@
+/* Base Styles */
+html {
+  background-color: #08210d;
+}
+
+body {
+  width: 1000px;
+  margin: 0 auto;
+  background-color: #c8c7c7;
+  padding: 20px 20px 20px;
+  border: 20px ridge #1c1c1c;
+}
+
+h1 {
+  font-family:'Courier New', Courier, monospace;
+  color: black;
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px 0;
+  text-shadow: 6px 6px 10px #08210d;
+}
+
+h2 {
+  font-family:'Courier New', Courier, monospace;
+  color: black;
+}
+
+p {
+  font-family: monospace;
+  color: black;
+}
+
+li {
+  color: black;
+  background-color: #52796f;
+  font-family: monospace;
+  border: 1px solid black;
+  margin-bottom: 5px;
+  margin-right: 1000px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%
+}
