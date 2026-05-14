@@ -1,9 +1,11 @@
-# Portfolio 
-# Data visualization projects (Personal)
-# Website 
+# Portfolio (Personal)
 Seeking a skilfull language for my own data statistical direction.
-
-### Python-scripted HTML
+# Data visualization 
+### Personal
+  - SQL
+  - MatPlotlib
+  - Beaver (GIS)
+# Website 
 Dead Wings Museum
   - Introduction-purpose for site 
   - image dimension/description
