@@ -1,12 +1,14 @@
-# Portfolio & Data visualization projects (Personal)
+# Portfolio 
+# Data visualization projects (Personal)
+# Website 
 Seeking a skilfull language for my own data statistical direction.
 
-## Furthermore
-This is my systematic experience.
-
 ### Python-scripted HTML
-dead wings museum
-  - image dimension/description 
+Dead Wings Museum
   - Introduction-purpose for site 
-  - Coordinates (topographical mapping)
-  - 
+  - image dimension/description
+  - GIS Coordinates (topographic mapping)
+### Features
+  - Responsive design
+  - HTML/CSS only
+  - Bookings (coming soon)
